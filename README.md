@@ -1,7 +1,7 @@
 Hi, I'm Caleb Newman! 👋
 
 I'm a Software Engineering student at Florida Gulf Coast University. Currently enrolled in my senior year, here's a bit more about me: 
-
+    
     👨‍🏫 I work for a small business in Fort Myers, Florida where I am responsible for front end web design.
     🔭 I'm currently working on my senior project with the United States Department of Homeland Security, working on a web-scraping application targeting that will aid human trafficking investigations.
     💻 I am comfortable with several programming languages such as C++, Python, Java, HTML/CSS, and Javascript
