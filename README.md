@@ -9,7 +9,7 @@ I'm a Software Engineering student at Florida Gulf Coast University, currently e
 
 🌱 Currently Learning:
 
-   - I am currently focused on web design and expanding my skillset to include a deeper knowledge of Express and Flask in order to assist with the Homeland Security project.
+   - I am currently focused on web design and expanding my skillset to include a deeper knowledge of Electron and Flask in order to assist with the Homeland Security project.
 
 📫 Contact Me
 
